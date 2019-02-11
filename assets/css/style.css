@@ -175,7 +175,7 @@ video{
 }
 .links a{
   transition: 0.4s;
-  font-family: 'Montserrat-Light';
+  font-family: 'Montserrat-Light',serif;
   color: white;
   font-size: 1.171vw;
   text-decoration:none;
@@ -205,7 +205,7 @@ video{
 }
 
 .highPerformance{
-  font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico',serif;
   position: absolute;
   width: 100%;
   bottom: 0vw;
@@ -237,7 +237,7 @@ video{
   top: 4vw;
 }
 .homeDesign a,.homeDesign span{
-  font-family: 'Montserrat-Bold';
+  font-family: 'Montserrat-Bold',serif;
   color: white;
   text-decoration: none;
   font-size: 1.2vw;
@@ -322,10 +322,10 @@ main{
 }
 .webDevelopment p:nth-child(2){
   margin-bottom: -1.2vw;
-  font-family: 'Montserrat-ExtraLight';
+  font-family: 'Montserrat-ExtraLight',serif;
 }
 .webDevelopment p:nth-child(3){
-  font-family: 'Montserrat-Black';
+  font-family: 'Montserrat-Black',serif;
 }
 .contentBox{
   box-shadow: 0px 1.77vw 12.962vw 1.259vw rgba(0,0,0,0.2);
@@ -394,12 +394,12 @@ main{
 
 
 .text p{
-  font-family: 'Montserrat-Light';
+  font-family: 'Montserrat-Light',serif;
   margin-right: 2.962vw;
   margin-left: 2.074vw;
 }
 .text h2{
-  font-family: 'Montserrat-Black';
+  font-family: 'Montserrat-Black',serif;
   margin-left: 2.074vw;
   font-size: 2.296vw;
   margin-bottom: 1vw;
@@ -427,7 +427,7 @@ main{
   border-top: 1px solid rgb(90,90,90);
   height: 6.666vw;
   align-items: center;
-  font-family: 'Montserrat-ExtraLight';
+  font-family: 'Montserrat-ExtraLight',serif;
 }
 .appMenuOptionsDiv:hover{
   cursor: pointer;
@@ -475,7 +475,7 @@ main{
 .contactPhoneApp{
   margin-top: 5vw;
   color: white;
-  font-family: 'Montserrat-Light';
+  font-family: 'Montserrat-Light',serif;
   font-size: 2vw;
   margin-left: 4vw !important;
 }
@@ -612,14 +612,14 @@ display: block;
   text-decoration: none;
 }
 .contentFour p{
-  font-family: 'Montserrat-Light';
+  font-family: 'Montserrat-Light',serif;
   margin: 0.8vw;
   font-size: 18px;
   color: rgb(112,112,112);
 }
 .contactPhone{
   color: white;
-  font-family: 'Montserrat-Light';
+  font-family: 'Montserrat-Light',serif;
   font-size: 2vw;
   margin-left: 2vw !important;
 }
@@ -651,7 +651,7 @@ display: block;
 }
 .contentFour input,.contentFour textarea{
   transition: 0.4s;
-  font-family: 'Montserrat-Light';
+  font-family: 'Montserrat-Light',serif;
   outline: none;
   height: 1.5vw;
   background-color: rgb(237,234,231);
