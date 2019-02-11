@@ -1,17 +1,21 @@
 @font-face {
   font-family: 'Montserrat-ExtraLight';
+  font-display: auto;
   src: url('../fonts/Montserrat-ExtraLight.otf') format('truetype');
 }
 @font-face {
   font-family: 'Montserrat-Light';
+  font-display: auto;
   src: url('../fonts/Montserrat-Light.otf') format('truetype');
 }
 @font-face {
   font-family: 'Montserrat-Bold';
+  font-display: auto;
   src: url('../fonts/Montserrat-Bold.otf') format('truetype');
 }
 @font-face {
   font-family: 'Montserrat-Black';
+  font-display: auto;
   src: url('../fonts/Montserrat-Black.otf') format('truetype');
 }
 div,main,header{
