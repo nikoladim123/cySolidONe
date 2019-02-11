@@ -243,6 +243,7 @@ video{
   background-image: url('../img/png/searchIcon.png');
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  margin-top: 1.85vw;
   margin-left: 73.239vw;
   width: 4vw;
   height: 4vw;
@@ -300,6 +301,7 @@ main{
 }
 
 .webDevelopment{
+  margin-top: -1.85vw;
   margin-left: 5.5vw;
   position: relative;
 }
