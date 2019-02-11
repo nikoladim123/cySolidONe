@@ -238,6 +238,7 @@ video{
   text-decoration: underline;
 }
 .searchIcon{
+  z-index: 1;
   transition: 0.5s;
   position: relative;
   background-image: url('../img/png/searchIcon.png');
