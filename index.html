@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css" media="all">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
@@ -26,7 +26,7 @@
       <a href="#"><img class="logo" src="assets/img/png/Logo.png" alt=""></a>
 
       <div class="videoDiv">
-        <video autoplay muted loop id="myVideo" defer>
+        <video autoplay muted loop id="myVideo" async>
           <source id='video' src="assets/video/graph.mp4" type="video/mp4" >
         </video>
         <div class="videoOverlay"></div>
@@ -253,6 +253,6 @@
       <div class="spacer" style="clear: both;"></div>
     </main>
 
-    <script type="text/javascript" src="assets/js/app.js"></script>
+    <script type="text/javascript" src="assets/js/app.js" async></script>
   </body>
 </html>
