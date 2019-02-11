@@ -257,7 +257,7 @@ main{
   top: 0;
   position: relative;
   overflow: visible;
-  top:-6.226vw;
+  margin-top:-6.226vw;
   /* min-height: 80.07vw; */
   height: auto;
   /* background-color: #555555 ; */
