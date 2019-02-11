@@ -283,6 +283,7 @@ main{
   height: 100%
 }
 .narrowBG{
+  box-shadow: 1.7vw 7px 50px -30px rgba(0,0,0,0.75);
   height: 200vw;
   width: 56vw;
   position: absolute;
